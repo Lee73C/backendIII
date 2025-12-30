@@ -858,8 +858,8 @@ Este proyecto está bajo la Licencia ISC.
 
 Desarrollado por **Silvia Salinas** como proyecto final del curso de Backend
 
-- Docker Hub: [lee73c/adoptme](https://hub.docker.com/repository/docker/lee73c/adoptme/general)
-- GitHub: [Enlace al repositorio] (https://github.com/Lee73C/backendIII)
+- Docker Hub: [https://hub.docker.com/repository/docker/lee73c/adoptme/general](lee73c/adoptme)
+- GitHub: [https://github.com/Lee73C/backendIII] (Enlace al repositorio)
 
 ---
 
